@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\jonoreilly\desktop\github\c\c++\uned\rombo\rombo\rombo\source.cpp(6): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\jonoreilly\desktop\github\c\c++\uned\rombo\rombo\rombo\source.cpp(14): warning C4477: 'printf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+c:\users\jonoreilly\desktop\github\c\c++\uned\rombo\rombo\rombo\source.cpp(18): warning C4477: 'printf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+c:\users\jonoreilly\desktop\github\c\c++\uned\rombo\rombo\rombo\source.cpp(22): warning C4477: 'printf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+c:\users\jonoreilly\desktop\github\c\c++\uned\rombo\rombo\rombo\source.cpp(36): error C2065: 'i': undeclared identifier
+c:\users\jonoreilly\desktop\github\c\c++\uned\rombo\rombo\rombo\source.cpp(37): error C2065: 'i': undeclared identifier
